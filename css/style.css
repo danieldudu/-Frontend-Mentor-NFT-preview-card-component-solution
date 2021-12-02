@@ -149,11 +149,11 @@ p, h1, h2, h3, h4, h5, h6 {
    border-radius: 12px;
  }
 
- h3 {
+ h1 {
    margin: 1em 0 1em 0; 
   }
 
-h3:hover, 
+h1:hover, 
  .name:hover{
   cursor: pointer;
   color: var(--accent-clr);
